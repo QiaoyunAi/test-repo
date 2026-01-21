@@ -1,6 +1,6 @@
-# test-repo
+# test-repo-edits
 
-I am making some edits to this README file using Markdown!
+THis is a branch of repo. I am making some edits to this README file using Markdown!
 
 ## This is a level 2 heading
 
